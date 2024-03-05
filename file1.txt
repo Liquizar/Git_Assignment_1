@@ -5,3 +5,6 @@ I am Amit Yadav.
 Welcome to my DevOps Practice.
 
 These are some new features that are added recently.
+
+These are some of the changes that are added by colleague.
+Happy learning!
